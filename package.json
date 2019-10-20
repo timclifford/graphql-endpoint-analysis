@@ -1,0 +1,19 @@
+{
+  "name": "graphql-endpoint-analysis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timclifford/graphql-endpoint-analysis.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/timclifford/graphql-endpoint-analysis/issues"
+  },
+  "homepage": "https://github.com/timclifford/graphql-endpoint-analysis#readme"
+}
