@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/timclifford/graphql-endpoint-analysis/issues"
   },
-  "homepage": "https://github.com/timclifford/graphql-endpoint-analysis#readme"
+  "homepage": "https://github.com/timclifford/graphql-endpoint-analysis#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-graphql": "^0.9.0",
+    "graphql": "^14.5.8"
+  }
 }
